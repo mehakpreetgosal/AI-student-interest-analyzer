@@ -53,19 +53,14 @@ Write a short personalized message suggesting a suitable career path and encoura
 ## 🖼️ Screenshots
 
 ### Google Form
-![Form](screenshots/google_form.png)
+![Form](google_forms1.png)
+![Form](google_forms2.png)
 
 ### Zapier Trigger
-![Trigger](screenshots/zap_trigger.png)
-
-### AI Step
-![AI](screenshots/ai_step.png)
-
-### Email Output
-![Email](screenshots/email_output.png)
+![Trigger](zap_trigger.png)
 
 ### Workflow Diagram
-![Workflow](screenshots/workflow.png)
+![Workflow](workflow.txt)
 
 ---
 
