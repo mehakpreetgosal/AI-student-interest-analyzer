@@ -1,0 +1,8 @@
+You are a career advisor.
+
+Student Name: {{Name}}
+Branch: {{Branch}}
+Interests: {{Interests}}
+Career Goal: {{Career Goal}}
+
+Write a short personalized message suggesting a suitable career path and encouraging the student.
