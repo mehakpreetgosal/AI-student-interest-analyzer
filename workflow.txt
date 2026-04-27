@@ -1,0 +1,36 @@
++------------------+
+|   Student User   |
++------------------+
+          |
+          v
++------------------------+
+|     Google Form        |
+| (Input: Name, Email,   |
+|  Interests, Goal)      |
++------------------------+
+          |
+          v
++------------------------+
+|        Zapier          |
+| (Trigger: New Response)|
++------------------------+
+          |
+          v
++------------------------+
+|       OpenAI API       |
+| (Generates Career      |
+|  Suggestion using AI)  |
++------------------------+
+          |
+          v
++------------------------+
+|        Gmail           |
+| (Sends Email to        |
+|  Student)              |
++------------------------+
+          |
+          v
++------------------------+
+|     Student Receives   |
+|   Personalized Email   |
++------------------------+
