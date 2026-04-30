@@ -65,8 +65,7 @@ Write a short personalized message suggesting a suitable career path and encoura
 ---
 
 ## 📹 Loom Video
-![Watch the video](https://www.youtube.com/watch?v=youtu.be/e3qtlbxvCT4?si=wOzxYR66jPRxDMx6)
-
+[![Watch Demo](https://img.youtube.com/vi/e3qtlbxvCT4/0.jpg)](https://youtu.be/e3qtlbxvCT4) 
 ---
 
 ## 🎯 Conclusion
